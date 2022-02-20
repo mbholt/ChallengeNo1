@@ -7,4 +7,4 @@ Screenshots:
 ![Screen Shot 2](assets/images/Screen Shot 2.png)
 ![Screen Shot 3](assets/images/Screen Shot 3.png)
 
-Link to Deployed Application: 
+Link to Deployed Application: https://mbholt.github.io/ChallengeNo1/
